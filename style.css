@@ -25,3 +25,36 @@ body {
   padding: 36px;
   gap: 16px;
 }
+.hero {
+  display: flex;
+  justify-content: space-evenly;
+  height: 400px;
+  align-items: center;
+}
+.hero-text h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #F9FAF8;
+  margin: 0;
+}
+.hero-text p {
+  margin: 0;
+  font-size: 18px;
+  color: #E5E7EB;
+  margin-bottom: 5px;
+}
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 0.5;
+}
+.hero button {
+  border: 0;
+  border-radius: 5px;
+  color: #F9FAF8;
+  font-weight: 700;
+  background-color: #3882F6;
+  width: 100px;
+  height: 30px;
+}

@@ -137,3 +137,11 @@ body {
   height: 30px;
   border-radius: 5px;
 }
+.footer {
+  background-color: #1F2937;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #E5E7EB;
+}

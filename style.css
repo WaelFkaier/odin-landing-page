@@ -71,12 +71,10 @@ body {
   width: 180px;
   flex-wrap: wrap;
   display: flex;
-  align-items: center;
   padding: 24px;
 
 }
 .box-container p {
-  text-align: center;
   color: #1F2937;
   margin: 5px;
 }
@@ -89,4 +87,24 @@ body {
 .information-wrapper {
   display: flex;
   justify-content: center;
+}
+.quote-section {
+  background-color: #E5E7EB;
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.quote-text {
+  width: 800px;
+}
+.quote-text div {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 700;
 }

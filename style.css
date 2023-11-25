@@ -108,3 +108,32 @@ body {
   justify-content: flex-end;
   font-weight: 700;
 }
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+.call-to-action-banner {
+  background-color: #3882F6;
+  width: 850px;
+  height: 120px;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+  color: #F9FAF8;
+}
+.cta-bold {
+  font-weight: 700;
+}
+.cta-button button {
+  font-weight: 700;
+  color: #F9FAF8;
+  background-color: #3882F6;
+  border: 1px solid #F9FAF8;
+  width: 90px;
+  height: 30px;
+  border-radius: 5px;
+}

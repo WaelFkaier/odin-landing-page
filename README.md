@@ -5,4 +5,12 @@ I think i will struggle a bit when it comes to Flexbox as i am relatively new an
 but it's fine... hopefully will finish it up nicely, trusting the process... as usual
 LET'S GO!
 
-Placeholder image by Sümeyye Acar, her instagram : 'https://www.instagram.com/helloimsum_'
+Well, this was a pretty fun project to work, i think i could improve on the code and especially on the Flexbox section... but it's been fun and let's not be maniac for each detail for now
+
+
+Placeholder image by Sümeyye Acar 
+Other images by :
+- Manja Vitolic
+- Amber Kipp
+- Bogdan Farca
+- Michael Sum 

@@ -8,7 +8,8 @@ LET'S GO!
 Well, this was a pretty fun project to work, i think i could improve on the code and especially on the Flexbox section... but it's been fun and let's not be maniac for each detail for now
 
 
-Placeholder image by Sümeyye Acar 
+Placeholder image by Sümeyye Acar
+ 
 Other images by :
 - Manja Vitolic
 - Amber Kipp
